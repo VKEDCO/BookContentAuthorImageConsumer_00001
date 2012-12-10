@@ -3,8 +3,8 @@ with an Android application that implements a consumer application
 for the BookContentProvider_00001 content provider 
 (https://github.com/VKEDCO/BookContentProvider_000001).
 
-2) The consumer retrieves images of authors or book covers from
-the content provider.
+2) The consumer retrieves images of author and book cover images 
+from the content provider.
 
 3) The consumer is implemented in BookContentProvider_00001.java.
 

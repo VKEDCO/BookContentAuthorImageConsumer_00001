@@ -11,10 +11,10 @@ from the content provider.
 4) Targets: Android 2.3+, Eclipse Helios 3.6
 
 5) To start: 
-   5.1) unzip into a folder; 
-   5.2) open in Eclipse; 
-   5.3) install and register the content provider (source code 
+   5.1) install and register the content provider (source code 
    at https://github.com/VKEDCO/BookContentProvider_000001);
-   5.4) Run as Android application to install the content provider.
+   5.2) unzip BookContentAuthorImageConsumer_00001.rar into a folder; 
+   5.3) open in Eclipse; 
+   5.4) Run as Android application
 
 
