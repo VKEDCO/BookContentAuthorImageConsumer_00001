@@ -1,0 +1,27 @@
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="org.vkedco.mobappdev.book_content_author_image_consumer_00001"
+    android:versionCode="1"
+    android:versionName="1.0" >
+
+    <uses-sdk
+        android:minSdkVersion="8"
+        android:targetSdkVersion="8" />
+
+    <application
+        android:icon="@drawable/background_009"
+        android:label="@string/app_name"
+        android:theme="@style/AppTheme" 
+        android:name=".BookContentAuthorImageConsumerApp"
+        >
+        <activity
+            android:name=".BookContentAuthorImageAct"
+            android:label="@string/title_activity_book_content_author_image" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+    </application>
+
+</manifest>
