@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">BookAIC_01</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="menu_settings">Settings</string>
+    <string name="title_activity_book_content_author_image">Author Images</string>
+    <string name="author_label">Author</string>
+    <string name="title_label">Title</string>
+    <string name="btnAuthorTitle">Author</string>
+    <string name="btnAuthorTitleTitle">Author and Title</string>
+    <string name="btnClearTitle">Clear</string>
+    <string name="uri_book_author_img_query">content://org.vkedco.mobappdev.content_providers.books/book_author_image/query?</string>
+	<string name="uri_book_cover_img_query">content://org.vkedco.mobappdev.content_providers.books/book_cover_image/query?</string>
+	<string-array name="book_authors">
+   		<item>Jalal_adDin_Rumi</item>
+   		<item>Hafiz</item>
+	</string-array>
+	<string-array name="book_titles">
+   		<item>The_Essential_Rumi</item>
+ 		<item>The_Illuminated_Rumi</item>
+ 		<item>A_Year_with_Rumi_Colon_Daily_Readings</item>
+ 		<item>A_Year_with_Hafiz_Colon_Daily_Contemplations</item>
+ 		<item>The_Gift</item>
+	</string-array>
+</resources>
